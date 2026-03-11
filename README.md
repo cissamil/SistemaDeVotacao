@@ -1,6 +1,6 @@
-# SistemaDeVotacao
+# Sistema De Votacao
 
-Atividade em React + Vite para simular um sistema de votacao.
+Atividade em React + Vite para simular um sistema de votacao simples
 
 ## Regras da atividade
 
